@@ -1,0 +1,19 @@
+Isntalasi Aplikasi:
+-Ekstrak File ZIP Aplikasi
+-Pindahkan Folder Hasil Ekstrak ZIP ke folder xampp/htdocs
+-Bikin Database baru di http://localhost/phpmyadmin kemudian import database yang ada di folder aplikasi
+-Masuk Ke Browser/Google Crome Panggil aplikasi sesuai dengan nama folder:
+http://localhost/WIYATAMANDALA/
+
+Untuk Masuk Ke Login Admin
+Panggil Dengan alamat: http://localhost/WIYATAMANDALA/administrator/
+Dengan Username dan Password: admin | admin
+
+Kekurangan Aplikasi: 
+-Logo di header administrator tidak terbaca saat masuk ke halaman edit
+-belum terdapat data guru dan siswa
+selebihnya dibutuhkan pengecekan kembali disesuaikan dengan kebutuhan aplikasi yang akan dibuat kedepannya
+
+BY. Akuteh Admin
+#TechInfo19
+Bantu Suport Subcribe Channel: Sunmori Lingkar Nagreg - Ari Muhamad Setiawan
